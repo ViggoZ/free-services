@@ -296,6 +296,7 @@ Many paid tools offer free plans for open source projects. Always check each ven
 | [Better Stack](https://betterstack.com/) | 🟢⚡ | Limited monitors, short retention | Uptime + logs | ⏳ |
 | [UptimeRobot](https://uptimerobot.com/) | 🟢⚡ | ~50 monitors, 5-minute interval | Non-commercial terms, check | ⏳ |
 | [Grafana Cloud](https://grafana.com/) | 🟢⚡ | Metrics, logs, traces allowance | Good all-in-one observability | ⏳ |
+| [Telemetry Tracker](https://telemetry-tracker.com/) | 🟢⚡ | 250K ingest units/month, 14-day retention, 1 project | Error tracking for JS/TS apps; no card; MIT, self-hostable | 2026-10-14 |
 | [SolidPing](https://www.solidping.io/) | 🟢⚡🏠 | 100 monitors, 10 check runs/min, 5 members | Uptime checks, status pages, on-call. AGPL, self-hostable | 2026-10-13 |
 
 ---
