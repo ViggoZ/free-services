@@ -1,18 +1,38 @@
 # 🚀 Free Services for Developers
 
-> **Build and ship your next app for $0, and know exactly when you'll have to start paying.**
+<p align="center">
+  <img src="assets/free-services-hero.png" alt="Abstract cloud infrastructure, databases, servers and developer tools" width="100%">
+</p>
 
-[Tiếng Việt](README.vi.md) · [简体中文](README.zh-CN.md)
+<p align="center">
+  <strong>Build and ship your next app for $0 — and know exactly when you'll have to start paying.</strong>
+</p>
 
-Most "free tools" lists are bare link dumps. This one is different:
+<p align="center">
+  <a href="https://github.com/dereknguyen269/free-services/stargazers"><img src="https://img.shields.io/github/stars/dereknguyen269/free-services?style=flat-square&logo=github&label=stars" alt="GitHub stars"></a>
+  <a href="https://github.com/dereknguyen269/free-services/network/members"><img src="https://img.shields.io/github/forks/dereknguyen269/free-services?style=flat-square&logo=github&label=forks" alt="GitHub forks"></a>
+  <a href="https://github.com/dereknguyen269/free-services/issues"><img src="https://img.shields.io/github/issues/dereknguyen269/free-services?style=flat-square&label=issues" alt="Open issues"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/dereknguyen269/free-services?style=flat-square&label=license" alt="License"></a>
+  <a href="https://dereknguyen269.github.io/free-services/"><img src="https://img.shields.io/badge/browse-interactive-0ea5e9?style=flat-square" alt="Interactive catalog"></a>
+</p>
 
-* **Opinionated $0 stacks** you can copy
-* **Real limits** for every service, not just a "free" badge
-* **"Where you hit the wall"**: what breaks first and what the next tier costs
+<p align="center">
+  <a href="README.vi.md">Tiếng Việt</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="CONTRIBUTING.md">Contributing</a> · <a href="https://dereknguyen269.github.io/free-services/">Interactive catalog ↗</a>
+</p>
+
+> **The short version:** opinionated $0 stacks, real free-tier limits, and a clear view of where each service hits the wall.
+
+<table>
+  <tr>
+    <td><strong>🧱 Copyable stacks</strong><br>Start with a practical $0 architecture for SaaS, AI, APIs, mobile, static sites, or open source.</td>
+    <td><strong>📏 Real limits</strong><br>See quotas, sleep behavior, card requirements, and commercial-use caveats—not just a “free” badge.</td>
+    <td><strong>🧭 Know the wall</strong><br>Understand what breaks first and what to evaluate before upgrading.</td>
+  </tr>
+</table>
 
 > ⚠️ Free tiers change constantly. Rows marked ⏳ have not been re-verified recently. Always check the provider's pricing page before relying on a service in production.
 
-> 🌐 **Prefer browsing?** Interactive searchable version: `https://dereknguyen269.github.io/free-services/` (data: [`data/services.yaml`](data/services.yaml)).
+> 🌐 **Prefer browsing?** Use the [interactive searchable catalog](https://dereknguyen269.github.io/free-services/) backed by [`data/services.yaml`](data/services.yaml).
 
 ---
 
