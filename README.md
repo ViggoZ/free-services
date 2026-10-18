@@ -2,6 +2,8 @@
 
 > **Build and ship your next app for $0, and know exactly when you'll have to start paying.**
 
+[Tiếng Việt](README.vi.md)
+
 Most "free tools" lists are bare link dumps. This one is different:
 
 * **Opinionated $0 stacks** you can copy
