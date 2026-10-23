@@ -193,6 +193,7 @@ Many paid tools offer free plans for open source projects. Always check each ven
 | [Railway](https://railway.com/) | Cloud | 🔵 | Trial credits, then paid | 💳 | ⏳ |
 | [Fly.io](https://fly.io/) | Cloud | 🔵 | Pay-as-you-go for new accounts, no standing free plan | 💳 | ⏳ |
 | [Prisma Compute](https://www.prisma.io/compute) | TypeScript apps | 🟢⚡ | 1M requests/month; Node.js, Bun and Next.js next to Prisma Postgres; scales to zero when idle | ❌ | 2026-10-08 |
+| [deed.page](https://deed.page/pricing) | Static (HTTP API / MCP) | 🟢⚡ | 25 sites, 25 MB per site, 60 publishes/hour; one HTTP request publishes, no account or build step; sites do not expire or sleep | ❌ | 2026-10-23 |
 
 ---
 

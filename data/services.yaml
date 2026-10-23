@@ -133,6 +133,7 @@ categories:
       - { name: "Google Cloud Run", url: "https://cloud.google.com/run", type: "Containers", free: "🟢⚡💳", limits: "Monthly free request and compute allowance", card: true, verified: "⏳" }
       - { name: "Railway", url: "https://railway.com/", type: "Cloud", free: "🔵", limits: "Trial credits, then paid", card: true, verified: "⏳" }
       - { name: "Fly.io", url: "https://fly.io/", type: "Cloud", free: "🔵", limits: "Pay-as-you-go for new accounts, no standing free plan", card: true, verified: "⏳" }
+      - { name: "deed.page", url: "https://deed.page/pricing", type: "Static (HTTP API / MCP)", free: "🟢⚡", limits: "25 sites, 25 MB per site, 60 publishes/hour; one HTTP request publishes, no account or build step", notes: "Static files only. Sites do not expire or sleep", card: false, verified: "2026-10-23" }
   - id: databases
     emoji: "💾"
     name: "Databases"
